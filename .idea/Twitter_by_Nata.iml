@@ -178,7 +178,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="routes: Twitter_by_Nata" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+    <configuration default="false" name="routes: Twitter_by_Nata" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="Twitter_by_Nata" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
